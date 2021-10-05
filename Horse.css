@@ -1,0 +1,46 @@
+
+#main{
+    
+    border: 3px solid brown; 
+    background-color: wheat;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-direction: row-reverse;
+    text-align: right;
+
+ 
+}
+
+.pic{
+    border: 3px brown  inset;
+    padding: 0px;
+    height: 500px;
+    width: 500px;
+}
+
+#text{
+
+    border: 4px dashed orange;
+    margin: 50px;
+    padding: 10px;
+    width: 600px;
+    height: 300px;
+    background-color: yellow;
+    overflow: scroll;
+    font-size: 20px;
+
+}
+
+
+
+
+.picture{
+   
+    border: 3px brown  inset;
+    width: 70%;
+
+
+}
+
+
